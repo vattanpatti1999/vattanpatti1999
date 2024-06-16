@@ -1,7 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://vattanpatti1999.io)
 # Hi 👋, I'm Nikhil S Nair:
 - 🌱 I’m currently learning **Next js,MySQL**<br><br>- 💬 Ask me about **React Native Mobile App Development**<br><br>- 📫 How to reach me **nikhilsnair201511@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://www.ceros.com/inspire/wp-content/uploads/sites/5/2019/03/gifrun.gif">
+<img  alt="Coding" width="400" src="https://www.ceros.com/inspire/wp-content/uploads/sites/5/2019/03/gifrun.gif">
+<img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/x64q2PXp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Budget_Ad_9354) 
